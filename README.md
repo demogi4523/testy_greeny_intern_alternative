@@ -4,7 +4,7 @@
 
 ## Запуск решений
 ```bash
-> user@host:/project # docker-compose build && docker-compose run tasks bash
+> user@host:/project# docker-compose build && docker-compose run tasks bash
 > root@CONTAINER_SHA:/tasks# python 1.py
 > root@CONTAINER_SHA:/tasks# python 2.py
 > root@CONTAINER_SHA:/tasks# python 3.py
